@@ -11,8 +11,6 @@
 
 ## Install
 
-### Development
-
 #### Requirements
 
 - Install Git
